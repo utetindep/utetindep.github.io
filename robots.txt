@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utetindep.github.io/sitemap.html.gz
+Sitemap: https://utetindep.github.io/app/sitemap.html.gz
+Sitemap: https://utetindep.github.io/assets/sitemap.html.gz
+Sitemap: https://utetindep.github.io/css/sitemap.html.gz
+Sitemap: https://utetindep.github.io/data/sitemap.html.gz
+Sitemap: https://utetindep.github.io/includes/sitemap.html.gz
+Sitemap: https://utetindep.github.io/item/sitemap.html.gz
+Sitemap: https://utetindep.github.io/src/sitemap.html.gz
